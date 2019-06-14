@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install shivi_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+@copyright = ShiviViewTool::Renderer.copyright 'My Name', 'All rights reserved'
+```
 
 ## Development
 
