@@ -3,7 +3,7 @@
 > Various view specific methods for applications I use.
 
 ## Currently includes
-- Copyright generator
+- Copyright Generator
 
 ## Installation
 
