@@ -2,6 +2,9 @@
 
 > Various view specific methods for applications I use.
 
+## Currently includes
+- Copyright generator
+
 ## Installation
 
 Add this line to your application's Gemfile:
